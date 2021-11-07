@@ -16,10 +16,10 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 Run command `npm test` to run the test suite
 
-![testSuiteGif](images\testsuite.gif)
+![testSuiteGif](images/testsuite.gif)
 
 ### Running application
 
 Run command `node index` to run the program. Follow the prompts. Following completion, Rendered page can be found @ `dist\index.html`
 
-![application](images\application.png)
+![application](images/application.png)
